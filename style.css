@@ -183,7 +183,7 @@ nav ul li a:hover{
 
     display: flex;
     margin-top: 60px;
-    box-shadow: 10px 7px 20px wheat;
+    width: 85%;
     
 }
 
@@ -327,7 +327,7 @@ nav ul li a:hover{
 
 }
 
-.pnion-pricing{
+.onion-pricing{
 
     margin-left: 30px;
 
@@ -353,5 +353,255 @@ nav ul li a:hover{
     border-radius: 30px;
     margin-left: -5px;
     text-align: center;
+
+}
+
+.produce{
+
+display: flex;
+
+}
+
+.produce h1{
+
+    font-size: 80px;
+    margin-left: 190px;
+
+}
+
+.produce p{
+
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 30px;
+    
+
+}
+
+.default{
+
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width: 146px;
+    height: 58px;
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 30px;
+    font-size: 23px;
+
+
+}
+
+.default:hover{
+
+    color: green;
+    background-color: white;
+    transition-duration: 0.5s;
+
+}
+
+.a-z{
+
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width: 90px;
+    height: 58px;
+    background-color: white;
+    border-color: darkgreen;
+    color: black;
+    border-radius: 30px;
+    font-size: 23px;
+
+}
+
+.a-z:hover{
+
+    color: white;
+    background-color: green;
+    transition-duration: 0.5s;
+
+}
+
+.list-view{
+
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width: 146px;
+    height: 58px;
+    background-color: white;
+    border-color: darkgreen;
+    color: black;
+    border-radius: 30px;
+    font-size: 23px;
+
+}
+
+.list-view:hover{
+
+    color: white;
+    background-color: green;
+    transition-duration: 0.5s;
+
+}
+
+.btn{
+
+    margin-top: 85px;
+    margin-left: 1030px;
+
+}
+
+hr{
+
+    width: 85%;
+
+}
+
+.tomato-1st{
+
+    display: flex;
+    margin-top: 110px;
+    width: 450px;
+    height: 580px;
+    box-sizing: border-box;
+    background-color: beige;
+    border-radius: 30px;
+    margin-left: 200px;
+
+}
+
+.tomato-1st-img img{
+
+    width: 450px;
+    height: 400px;
+    border-radius: 30px;
+
+}
+
+.tomato-1st-pricing{
+
+    margin-left: 30px;
+
+}
+
+.tomato-1st-pricing h3{
+
+    font-size: 30px;
+    width: 305px;
+    height: 30px;
+    margin-top: 420px;
+    margin-left: -450px;
+
+}
+
+.tomato-1st-pricing p{
+
+    font-size: 35px;
+    color: green;
+    margin-left: -450px;
+    margin-top: -20px;
+
+
+}
+
+
+.ginger-1st{
+
+    display: flex;
+    margin-top: -582px;
+    width: 450px;
+    height: 580px;
+    box-sizing: border-box;
+    background-color: beige;
+    border-radius: 30px;
+    margin-left: 800px;
+
+}
+
+.ginger-1st-img img{
+
+    width: 450px;
+    height: 400px;
+    border-radius: 30px;
+
+}
+
+.ginger-1st-pricing{
+
+    margin-left: 30px;
+
+}
+
+.ginger-1st-pricing h3{
+
+    font-size: 30px;
+    width: 305px;
+    height: 30px;
+    margin-top: 420px;
+    margin-left: -450px;
+
+}
+
+.ginger-1st-pricing p{
+
+    font-size: 35px;
+    color: green;
+    margin-left: -450px;
+    margin-top: -20px;
+
+
+}
+
+.onion-1st{
+
+    display: flex;
+    margin-top: -582px;
+    width: 450px;
+    height: 580px;
+    box-sizing: border-box;
+    background-color: beige;
+    border-radius: 30px;
+    margin-left: 1450px;
+
+}
+
+.onion-1st-img img{
+
+    width: 450px;
+    height: 400px;
+    border-radius: 30px;
+
+}
+
+.onion-1st-pricing{
+
+    margin-left: 30px;
+
+}
+
+.onion-1st-pricing h3{
+
+    font-size: 30px;
+    width: 305px;
+    height: 30px;
+    margin-top: 420px;
+    margin-left: -450px;
+
+}
+
+.onion-1st-pricing p{
+
+    font-size: 35px;
+    color: green;
+    margin-left: -450px;
+    margin-top: -20px;
+
+
+}
+
+.all{
+
+    margin-left: 150px;
 
 }
